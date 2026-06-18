@@ -13,4 +13,4 @@
 ## tecnologias de desarrollo 
 
 ### front end
-<img src="https://skillicons.dev/icons?i=html,css,react," alt="HTML, CSS, React, " />
+<img src="https://skillicons.dev/icons?i=html,css,react," alt="HTML, CSS, JavaScrip, React, " />
