@@ -1,7 +1,13 @@
 ## Hi, I'm Jaime 👋
 
 <!--
-**Jaimedevelopment/Jaimedevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**J💻 Estudiante de Análisis y Desarrollo de Software.
+
+Actualmente trabajo como cocinero profesional, una labor que me ha permitido desarrollar disciplina, organización, trabajo en equipo y capacidad para resolver problemas en entornos de alta exigencia.
+
+🚀 Paralelamente, estoy construyendo mi camino en el desarrollo de software, aprendiendo programación, bases de datos, Git, GitHub y desarrollo web mediante proyectos y formación continua.
+
+🌱 Mi objetivo es crecer profesionalmente en el sector tecnológico, aplicando la experiencia y las habilidades adquiridas durante mi trayectoria laboral.aimedevelopment/Jaimedevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
