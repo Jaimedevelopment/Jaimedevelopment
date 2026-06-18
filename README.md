@@ -19,3 +19,7 @@
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=java,python,nodejs" />
+
+### Bases de Datos
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
