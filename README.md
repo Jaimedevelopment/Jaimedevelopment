@@ -23,3 +23,7 @@
 ### Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### Herramientas
+
+<img src="https://skillicons.dev/icon?¿i=git,github,vscode" />
