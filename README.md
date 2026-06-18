@@ -1,6 +1,6 @@
 ## Hi, I'm Jaime 👋
 
-**💻 Estudiante de Análisis y Desarrollo de Software con un fuerte interés en el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
+💻 Estudiante de Análisis y Desarrollo de Software con un fuerte interés en el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
 
 🚀 Actualmente me encuentro construyendo proyectos para fortalecer mis habilidades en programación, control de versiones y desarrollo de aplicaciones, con el objetivo de crecer profesionalmente en la industria del software.
 
