@@ -16,7 +16,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react," alt="HTML, CSS, JavaScript, React, " />
 
+<img src="https://skillicons.dev/icons?i=java,python,note.js," alt="Java, Python, note.js, " />
+
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,python,node.js,"alt="Java, Python, Node.js, " />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=java,python,node.js, "alt="Java, Python, Node.js, " />
 
