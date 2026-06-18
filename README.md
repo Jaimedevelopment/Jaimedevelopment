@@ -10,7 +10,12 @@
 
 ⚡ Mi experiencia profesional en gastronomia me ha permitido desarrollar disciplina, adaptabilidad y trabajo en equipo, competencias que complemento con mi formación tecnológica para afrontar nuevos retos en el mundo del desarrollo.
 
-## tecnologias de desarrollo 
+## Tecnologias de Desarrollo 
 
-### front end
+### Front End
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react," alt="HTML, CSS, JavaScript, React, " />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,python,node.js,"alt="Java, Python, Node.js, " />
