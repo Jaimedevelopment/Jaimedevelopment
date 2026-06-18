@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
-</h1>
 
 
 ## Hi, I'm Jaime 👋
@@ -12,3 +9,8 @@
 🌱 Me motiva el aprendizaje continuo, la resolución de problemas y la exploración de nuevas tecnologías que generen impacto y valor.
 
 ⚡ Mi experiencia profesional en gastronomia me ha permitido desarrollar disciplina, adaptabilidad y trabajo en equipo, competencias que complemento con mi formación tecnológica para afrontar nuevos retos en el mundo del desarrollo.
+
+## tecnologias de desarrollo 
+
+### front end
+<img src="https://skillicons.dev/icons?i=html,css,react," alt="HTML, CSS, React, " />
