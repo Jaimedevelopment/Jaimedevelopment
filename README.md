@@ -16,9 +16,8 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react," alt="HTML, CSS, JavaScript, React, " />
 
-<img src="https://skillicons.dev/icons?i=java,python,note.js," alt="Java, Python, Note.js, " />
+<img src="https://skillicons.dev/icons?i=java,python,note.js," alt="Java, Python, Note.js, " /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,python,node.js, "alt="Java, Python, Node.js, " />
 
