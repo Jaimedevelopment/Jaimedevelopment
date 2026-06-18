@@ -1,7 +1,7 @@
 ## Hi, I'm Jaime 👋
 
 <!--
-**J💻 Estudiante de Análisis y Desarrollo de Software.
+**💻 Estudiante de Análisis y Desarrollo de Software.**
 
 Actualmente trabajo como cocinero profesional, una labor que me ha permitido desarrollar disciplina, organización, trabajo en equipo y capacidad para resolver problemas en entornos de alta exigencia.
 
