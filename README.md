@@ -16,10 +16,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react," alt="HTML, CSS, JavaScript, React, " />
 
-<img src="https://skillicons.dev/icons?i=java,python,notejs," alt="Java, Python, Note.js, " /> 
-
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,html,css,js,git,github,mysql,vscode" alt="Tech Stack" />
-
 ### Backend
 
-
+<img src="https://skillicons.dev/icons?i=java,python,nodejs" />
