@@ -26,4 +26,4 @@
 
 ### Herramientas
 
-<img src="https://skillicons.dev/icon?¿i=git,github,vscode" /> <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icon?i=git,github,vscode" /> <img src="https://skillicons.dev/icons?i=git,github,vscode" />
