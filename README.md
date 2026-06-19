@@ -1,6 +1,14 @@
 
  
-## Hi, I'm Jaime 
+<h1 align="center">
+  <span>
+    Hi!
+    <img 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+      width="35"
+      style="vertical-align: middle;"
+    />
+    I'm jaime!
 </span>
 </h1>
 <div align="center"> 
