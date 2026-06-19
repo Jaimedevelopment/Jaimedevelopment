@@ -18,8 +18,6 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,python,nodejs" />
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### Bases de Datos
