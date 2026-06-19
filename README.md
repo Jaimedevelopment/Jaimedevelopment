@@ -1,12 +1,11 @@
 
  
-## Hi, I'm Jaime 👋
- <img 
-      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
-      width="35"
-      style="vertical-align: middle;"
-    />
-
+## Hi, I'm Jaime 
+</span>
+</h1>
+<div align="center"> 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+</div>
 💻 Estudiante de Análisis y Desarrollo de Software con un fuerte interés en el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
 
 🚀 Actualmente me encuentro construyendo proyectos para fortalecer mis habilidades en programación, control de versiones y desarrollo de aplicaciones, con el objetivo de crecer profesionalmente en la industria del software.
