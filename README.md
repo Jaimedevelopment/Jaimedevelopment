@@ -30,9 +30,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ## 📊 Estadisticas Github 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Estadisticas GitHub]<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaimedevelopment&theme=github-compact" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaimedevelopment&theme=github-compact" width="100%"/>
 
 
 ## 📈 Actividad
