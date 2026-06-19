@@ -37,6 +37,7 @@
 
 ## 📈 Actividad 
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaimedevelopment&theme=github-compact" width="100%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaimedevelopment&theme=github-compact&hide_border=true&title=Jaimedevelopment%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 
 
