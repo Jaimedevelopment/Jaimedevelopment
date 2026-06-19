@@ -31,7 +31,9 @@
 
 ## 📊 Estadisticas Github 
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=github-compact&hide_border=true&title=Magrelaio%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaimedevelopment&show_icons=true)
+
+
 
 
 
