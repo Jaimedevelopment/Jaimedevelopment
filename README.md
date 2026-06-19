@@ -34,4 +34,3 @@
   
 ![Estadisticas GitHub](https://github-readme-stats.vercel.app/api?username=Jaimedevelopment&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=Jaimedevelopment&layout=compact)
