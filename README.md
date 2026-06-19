@@ -32,6 +32,6 @@
 ### 📊 Estadisticas Github 
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaimedevelopment&show_icons=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?Jaimedevelopment=Jaimedevelopment&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimedevelopment&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Jaimedevelopment=Jaimedevelopment&layout=compact)
