@@ -18,7 +18,7 @@
 
 ### Backend
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 
 ### Bases de Datos
 
@@ -26,6 +26,5 @@
 
 ### Herramientas
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
+<img src="https://skillicons.dev/icon?i=git,github,vscode" />
 
