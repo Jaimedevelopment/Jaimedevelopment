@@ -12,10 +12,9 @@
 
 ## Tecnologias de Desarrollo 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
 ### Front End
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react," alt="HTML, CSS, JavaScript, React, " />
 
 ### Backend
