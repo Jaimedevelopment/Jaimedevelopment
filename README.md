@@ -1,10 +1,11 @@
 
+ 
+## Hi, I'm Jaime 👋
  <img 
       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
       width="35"
       style="vertical-align: middle;"
     />
-## Hi, I'm Jaime 👋
 
 💻 Estudiante de Análisis y Desarrollo de Software con un fuerte interés en el desarrollo web, las bases de datos y la creación de soluciones tecnológicas.
 
