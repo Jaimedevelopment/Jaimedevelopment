@@ -34,7 +34,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaimedevelopment&show_icons=true)
 
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimedevelopment&layout=compact&theme=tokyonight)
 
 
 ## 📈 Actividad
